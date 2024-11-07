@@ -33,9 +33,8 @@ body{
   font-size: 20px;
   font-style: normal;
   line-height: 1.5;
+
 }
-
-
 
 /*This is where the a's start*/
 a:hover {
@@ -173,7 +172,12 @@ span {
   cursor: pointer;
 }
 
-.profile {
+.profile{
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.about{
   max-width: 700px;
   margin: 0 auto;
 }

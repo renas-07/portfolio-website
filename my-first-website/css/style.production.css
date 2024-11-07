@@ -184,6 +184,11 @@
     max-width: 700px;
     margin: 0 auto;
   }
+
+  .about, .contact{
+    max-width: 960px;
+    margin: 0 auto;
+  }
   
   .profile_portrait {
     float: right;
@@ -192,13 +197,17 @@
     border-radius: 50%;
   }
   
-  
+  .my-work {
+    max-width: 960px;
+    margin: 0 auto;
+  }
   
   .profile-text {
     -ms-flex-preferred-size: 1 1 100px;
         flex-basis: 1 1 100px;
   }
   
+
   .page-header {
     display: -webkit-box;
     display: -ms-flexbox;
